@@ -1,5 +1,5 @@
 # set the working directory for the session to where the datasets are stored
-setwd("C:/Users/paul/Desktop/Coursera/assignments/R_Programming/week4")
+setwd("C:/Users/epauste/Desktop/Coursera/assignments/R_Programming/week4")
 
 #-------------------------------------------------------------------------------
 # Create a function that 
